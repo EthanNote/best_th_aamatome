@@ -1,6 +1,6 @@
 # best_th_aamatome
 
-<pre>　　　　　　　　　　　　　　　　　　 　 　 　 ''"~￣￣~｀`丶、 ／/]
+<pre style="font-family: MS PGothic">　　　　　　　　　　　　　　　　　　 　 　 　 ''"~￣￣~｀`丶、 ／/]
 　　　　　　 　 　 　 　 　 　 　 　 　 ／　　 ＿__　　　　　 У///|‐┐
 　　　　　　　　　　　　　　　 　 　 , ﾞ　 __／　　⌒T冖￢く/////|//
 　　　　　　　 　 　 　 　 　 　 　 /　／ 〈 r～⌒ｰt＿_ｚ―┐(//∨
@@ -45,8 +45,4 @@
 　　　　　　　　　　　　　　 　 　 　 　 　 乂＿_ｸ　　　　込＿_/</pre>
 
 
-<style>
-    pre{
-    font-family: "MS PGothic"
-    }
-</style>
+
